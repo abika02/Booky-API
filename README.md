@@ -1,3 +1,2 @@
 # Booky-API
-Booky is a book management app
-It involves MongoDB.
+Booky is a book management app it uses involves MongoDB.
