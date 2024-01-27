@@ -5,7 +5,7 @@
 <h3>📝 Introduction:</h3>
 📔 <i>Booky is an expertly crafted book management app developed in JavaScript, utilizing MongoDB for a robust database backend. It efficiently organizes arrays of Books, Authors, Publications, and Categories.</i><br><br>
 
-<h3>💻 Tech Foundation:</h3
+<h3>💻 Tech Foundation:</h3>
 📔 <i>Built on JavaScript, Booky seamlessly integrates with MongoDB, ensuring scalability and high performance.</i><br><br>
 
 <h3>🗃️ Database Structure:</h3>
